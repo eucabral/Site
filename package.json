@@ -1,0 +1,17 @@
+{
+  "name": "rep_mono",
+  "version": "1.0.0",
+  "description": "projeto para usar como propaganda pessoal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js localhost 3000"
+  },
+  "author": "Cabral <guilhermedeoliveiracabral@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemon": "^2.0.19"
+  }
+}
